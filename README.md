@@ -156,6 +156,7 @@ ip-10-0-187-88.ec2.internal    Ready    <none>   13d   v1.29.3-eks-ae9a62a
 
 ## Opeshift Cluster on AWS - Red Hat
 
+![ROSA](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnvzg6xmfikh26bymsyj.jpg)
 
 ### Pre-requisites to create ROSA
 
